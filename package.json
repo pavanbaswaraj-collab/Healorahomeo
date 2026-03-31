@@ -1,0 +1,10 @@
+{
+  "name": "heal-ora-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Heal Ora Homoeopathy Clinic website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

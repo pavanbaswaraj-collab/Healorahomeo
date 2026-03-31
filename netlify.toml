@@ -1,0 +1,7 @@
+[build]
+  publish = "public"
+
+[[redirects]]
+  from = "/booking"
+  to = "/#booking"
+  status = 301
